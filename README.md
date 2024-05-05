@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TheRealSte, I am 21 years old, half German and half Italian
-- 👀 I’m interested desktop and mobile applications
-- 🔌 I'm also interested in electronics, specially in drones and Arduino stuff
-- 💞️ I’m looking to learn and know other developers or enthusiasts that share my same passions!
+- 👀 I’m interested in desktop and mobile applications
+- 🔌 I'm also interested in electronics, specially in drones and robots
 
 <!---
 TheRealSte/TheRealSte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
