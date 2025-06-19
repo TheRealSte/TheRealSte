@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheRealSte, I am 21 years old, half German and half Italian
+- 👋 Hi, I’m @TheRealSte, I am 22 years old, half German and half Italian
 - 👀 I’m interested in desktop and mobile applications
 - 🔌 I'm also interested in electronics, specially in drones and robots
 
